@@ -1,0 +1,2 @@
+Seconds in the coming year : 31536000 
+Seconds in the coming century : 3155673600
