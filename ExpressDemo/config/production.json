@@ -1,0 +1,6 @@
+{
+    "name" : "Prod Environment",
+    "mail" : {
+        "host":"Prod-mail"
+    }
+}
